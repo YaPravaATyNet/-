@@ -42,3 +42,5 @@ Errors should be handled:
 * File format error (if the file is not in the correct format)
 * Invalid parameter type (error during type casting)
 * The specified pair SECTION PARAMETER is not in the configuration file
+
+hm
